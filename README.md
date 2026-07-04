@@ -10,19 +10,19 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
-- 🎓 Técnico en Desarrollo de Software — **UCENFOTEC**
-- 📘 Actualmente cursando Bachillerato en Ingeniería en Sistemas de Información — **Universidad Nacional de Costa Rica (UNA)**
-- 🌐 Certificación **CCNA 1** — Cisco Networking Academy (UCR)
-- 💻 Enfocado en desarrollo web **front-end y back-end**
-- 🗣️ Inglés nivel **C1**
-- 📍 San Isidro de Heredia, Costa Rica
-- ⚡ Siempre aprendiendo tecnologías nuevas
+-  Técnico en Desarrollo de Software — **UCENFOTEC**
+-  Actualmente cursando Bachillerato en Ingeniería en Sistemas de Información — **Universidad Nacional de Costa Rica (UNA)**
+-  Certificación **CCNA 1** — Cisco Networking Academy (UCR)
+-  Enfocado en desarrollo web **front-end y back-end**
+-  Inglés nivel **C1**
+-  San Isidro de Heredia, Costa Rica
+-  Siempre aprendiendo tecnologías nuevas
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+###  Tecnologías y herramientas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,py,java,html,css,git,github,sql,vscode" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 📌 Proyectos destacados
+###  Proyectos destacados
 
 - **[mep-materiales-escolares](https://github.com/gaboCR0501/mep-materiales-escolares)** — Proyecto de gestión de materiales escolares (MEP).
 - **[MATERIALES_ESCOLARES_MEP](https://github.com/gaboCR0501/MATERIALES_ESCOLARES_MEP)** — Aplicación en JavaScript para materiales escolares.
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Contáctame
+###  Contáctame
 
 <p align="left">
   <a href="mailto:mzrgabo@gmail.com">
