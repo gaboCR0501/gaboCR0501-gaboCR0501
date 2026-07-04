@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaboCR0501&show_icons=true&theme=default&hide_border=true&count_private=true" />
